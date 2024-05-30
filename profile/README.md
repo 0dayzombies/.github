@@ -10,7 +10,7 @@ We aim to provide a platform for learning, collaboration, and growth in the fiel
 
 **Comprehensive Learning Experience:** 
 - **Linux Mastery:** Learn everything about the Linux operating system, from installation and usage to administration. Get the opportunity to build your own custom Linux OS from scratch.
-- **Programming:** Dive into programming with the Linux kernel, POSIX libraries, and our custom system development toolkit. We offer courses in C#, C++, and JavaScript.
+- **Programming:** Dive into programming with the Linux kernel, POSIX libraries, and our custom system development toolkit. We offer courses in Python, C++, and JavaScript.
 - **Application Development:** Gain skills in creating command-line, desktop, mobile, web applications and games.
 
 **Practical Experience:**
