@@ -1,9 +1,23 @@
-Welcome to 0DAYZOMBIES, a vibrant hacking group dedicated to igniting and nurturing an interest in information security (infosec) among individuals in the Pacific Northwest. Our mission is to create a supportive environment where members can explore and develop their cybersecurity skills.
+**Welcome to 0DAYZOMBIES**
 
-At 0DAYZOMBIES, we provide a platform for learning, collaboration, and growth in the field of infosec. Our group is particularly focused on helping young minds who aspire to pursue careers with the U.S. Department of Defense, law enforcement, or as civilian contractors working for the state of Washington.
+At 0DAYZOMBIES, we are a dynamic hacking group dedicated to fostering an interest in information security (infosec) within the Pacific Northwest community. Our mission is to create a supportive environment where members can explore and enhance their cybersecurity skills.
 
-We offer a comprehensive learning experience in the field of information security and beyond. You will gain hands-on knowledge about the Linux operating system, from installation and usage to administration and the creation of your own custom Linux OS from scratch. Our program covers programming with the Linux kernel, POSIX libraries, and our unique system development toolkit.
+### Our Mission
 
-We provide courses in Python, C#, C++, and JavaScript, along with training in web design, game design and development, and creating mobile, command-line, desktop, and web applications. Additionally, you'll get practical experience working with various architectures such as x86_64, ARM, and RISC-V, and microcontrollers including the ESP32, RP2040, and RISC-V-based MCUs, as well as Arduino.
+We aim to provide a platform for learning, collaboration, and growth in the field of infosec. Our primary focus is on supporting young individuals aspiring to pursue careers with the U.S. Department of Defense, law enforcement, or as civilian contractors for the state of Washington.
 
-Furthermore, our curriculum includes basic, intermediate, and advanced information security concepts and their applications. Joining 0DAYZOMBIES gives you a strong foundation and a head start on your journey toward a career in infosec.
+### What We Offer
+
+**Comprehensive Learning Experience:** 
+- **Linux Mastery:** Learn everything about the Linux operating system, from installation and usage to administration. Get the opportunity to build your own custom Linux OS from scratch.
+- **Programming:** Dive into programming with the Linux kernel, POSIX libraries, and our custom system development toolkit. We offer courses in Python, C#, C++, and JavaScript.
+- **Application Development:** Gain skills in web design, game design and development, and creating mobile, command-line, desktop, and web applications.
+
+**Practical Experience:**
+- **Architectures:** Work with various architectures including x86_64, ARM, and RISC-V.
+- **Microcontrollers:** Get hands-on experience with microcontrollers such as the ESP32, RP2040, RISC-V-based MCUs, and Arduino.
+
+**Security Training:**
+- **Infosec Concepts:** Our curriculum includes basic, intermediate, and advanced information security concepts and their practical applications.
+
+Joining 0DAYZOMBIES provides a strong foundation and an excellent head start for anyone on their journey towards a career in infosec. Whether you are just starting out or looking to deepen your knowledge, we are here to support your growth and passion for cybersecurity.
