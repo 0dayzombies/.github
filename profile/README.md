@@ -1,5 +1,5 @@
 # Welcome to 0DAYZOMBIES
-We are a dynamic hacking & engineering group dedicated to fostering an interest in information security (infosec) and engineering within the Pacific Northwest community. 
+We are a dynamic hacking & engineering group dedicated to fostering an interest in information security (infosec) and engineering.
 
 ## Our Mission
 We aim to provide a platform for learning, collaboration, and growth in the field of infosec and harm reduction.
