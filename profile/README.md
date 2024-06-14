@@ -1,8 +1,11 @@
 # Welcome to 0DAYZOMBIES
-We are a dynamic hacking & engineering group dedicated to fostering an interest in information security (infosec) and engineering.
+
+We are a pioneering hacking and engineering group focused on advancing the field of information security (infosec) through innovative deception technologies.
 
 ## Our Mission
-We aim to provide a platform for learning, collaboration, and growth in the field of infosec and harm reduction.
 
-## What does 0DAYZOMBIES mean?
-It's a term we use to describe the phenomenon of sudden and tragic events occurring repeatedly, much like relentless hordes of zombies. These events, often unexpected and devastating, can range from natural disasters like wildfires to cyber-attacks. The term "0day" highlights the unforeseen and immediate nature of these incidents, while "Zombies" signifies their relentless and overwhelming occurrence, causing significant disruption and harm. 
+Our mission is to enhance cybersecurity by creating and deploying advanced honeypots, decoys, and deceptive strategies that protect real assets while engaging and distracting cybercriminals. We aim to foster learning, collaboration, and growth in infosec, while effectively mitigating harm from cyber threats.
+
+## What Does 0DAYZOMBIES Mean?
+
+The term "0DAYZOMBIES" captures the essence of relentless and unexpected cyber threats. "0day" refers to zero-day vulnerabilities, which are security flaws that are exploited by attackers before they are discovered and patched. "Zombies" symbolize the persistent and overwhelming nature of these cyber threats, similar to relentless zombie hordes causing disruption and damage. Our name reflects our commitment to staying ahead of these threats by developing sophisticated defensive measures.
