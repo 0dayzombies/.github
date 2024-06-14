@@ -1,6 +1,6 @@
 # Welcome to 0DAYZOMBIES
 
-We are a pioneering hacking and engineering group focused on advancing the field of information security (infosec) through innovative deception technologies.
+We are a trailblazing INFOSEC and engineering group dedicated to advancing information security through cutting-edge deception technologies.
 
 ## Our Mission
 
